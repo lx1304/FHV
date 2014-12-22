@@ -17,5 +17,22 @@ package sem1;
  */
 
 public class UE01 {
-
+	private class Stack{
+		
+		Boolean isEmpty() {
+			return false;
+		}
+		
+		void push() {
+			
+		}
+		
+		int pop() {
+			return 0;
+		}
+		
+		int top() {
+			return 0;
+		}
+	}
 }
